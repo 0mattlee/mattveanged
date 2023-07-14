@@ -1,10 +1,17 @@
--🎓 Graduando em Engenharia de Software e estudante de Cybersegurança.
+-🎓 Graduando em Engenharia de Software e Cybersegurança.
+
 -💡 Apaixonado por inteligência artificial e programação.
+
 -🚀 Buscando constantemente aprender e explorar novas tecnologias.
+
 -💻 Comprometido em desenvolver soluções inovadoras e seguras.
+
 -🤝 Animado em colaborar em projetos interessantes.
+
 -🌟 Vamos juntos desbravar o mundo da tecnologia!
+
 -📫 meu email é matheus1872000@gmail.com
+
 
 
 
