@@ -1,4 +1,4 @@
--🎓 Graduando em Engenharia de Software e Cybersegurança.
+-🎓 Graduando em Engenharia de Software
 
 -💡 Apaixonado por inteligência artificial e programação.
 
