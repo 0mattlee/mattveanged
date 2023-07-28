@@ -1,16 +1,10 @@
--🎓 Graduando em Engenharia de Software
-
--💡 Apaixonado por inteligência artificial e programação.
-
--🚀 Buscando constantemente aprender e explorar novas tecnologias.
-
--💻 Comprometido em desenvolver soluções inovadoras e seguras.
-
--🤝 Animado em colaborar em projetos interessantes.
-
--🌟 Vamos juntos desbravar o mundo da tecnologia!
-
--📫 meu email é matheus1872000@gmail.com
+- 🎓 Software Engineering Undergraduate
+- 💡 Enthusiastic about artificial intelligence and programming.
+- 🚀 Constantly seeking to learn and explore new technologies.
+- 💻 Committed to developing innovative and secure solutions.
+- 🤝 Excited to collaborate on interesting projects.
+- 🌟 Let's embark on a journey together through the world of technology!
+- 📫 Contact me at matheus1872000@gmail.com.
 
 
 
