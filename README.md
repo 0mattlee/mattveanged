@@ -3,7 +3,6 @@
 - 🚀 Constantly seeking to learn and explore new technologies.
 - 💻 Committed to developing innovative and secure solutions.
 - 🤝 Excited to collaborate on interesting projects.
-- 🌟 Let's embark on a journey together through the world of technology!
 - 📫 Contact me at matheus1872000@gmail.com.
 
 
